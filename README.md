@@ -19,9 +19,19 @@
 
 ---
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LiRyan04&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0D1117" alt="Ryan's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiRyan04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages" />
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LiRyan04&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Signal" alt="GitHub activity graph" />
+### 🧠 AI / ML
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,anaconda,cuda" />
+<br/>
+
+### ⚙️ Embedded / Hardware
+<img src="https://skillicons.dev/icons?i=c,cpp,cmake,arduino,raspberrypi,matlab" />
+<br/>
+
+### 🛠️ Dev / Tools / DevOps
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,powershell,git,github,gitlab,docker,kubernetes,vscode,neovim,nginx,mysql,redis,nodejs,ts" />
+
+</div>
 
 ---
