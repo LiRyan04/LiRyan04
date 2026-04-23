@@ -22,22 +22,14 @@
 ![Keil](https://img.shields.io/badge/Keil-00599C?style=for-the-badge)
 ![Altium Designer](https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge)
 ![Cadence](https://img.shields.io/badge/Cadence-CB2026?style=for-the-badge)
-![Embedded](https://img.shields.io/badge/Embedded%20Systems-334155?style=for-the-badge)
-![PCB](https://img.shields.io/badge/PCB%20Design-166534?style=for-the-badge)
 
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,powershell,python,cpp,git,github,docker,vscode,cmake,pytorch" alt="Development stack" />
 
 ---
 
-## GitHub Telemetry
-
-<div align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=LiRyan04&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0D1117" alt="Ryan's GitHub stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiRyan04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=LiRyan04&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Signal" alt="GitHub activity graph" />
-
-</div>
 
 ---
