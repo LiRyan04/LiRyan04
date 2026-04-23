@@ -15,18 +15,7 @@
 ![Altium Designer](https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge)
 ![Cadence](https://img.shields.io/badge/Cadence-CB2026?style=for-the-badge)
 ![LCEDA](https://img.shields.io/badge/LCEDA-1765F6?style=for-the-badge)
-<img src="https://skillicons.dev/icons?i=
-linux,ubuntu,bash,powershell,
-python,cpp,c,cmake,
-git,github,
-docker,
-vscode,neovim,
-pytorch,opencv,
-raspberrypi,arduino,
-matlab,
-anaconda,
-cuda,
-" alt="Development stack" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,powershell,python,cpp,cmake,git,github,docker,vscode,pytorch,opencv,raspberrypi,arduino,matlab,cuda" />
 
 ---
 
