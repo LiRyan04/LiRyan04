@@ -43,11 +43,6 @@
 
 <br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LiRyan04&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0D1117" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiRyan04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-<br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=LiRyan04&theme=tokyo-night&hide_border=true&area=true&custom_title=%20" />
 
 </div>
